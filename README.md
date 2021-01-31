@@ -2,7 +2,7 @@
 #### I am a Software Engineer and Aerospace Propulsion Technician
 ![I am a Software Engineer and Aerospace Propulsion Technician]
 
-I made a Computer Science Grad from West Chester University and like to play my guitar and hike in Alaska in my free time.
+I am a Computer Science Grad from West Chester University and like to play my guitar and hike in Alaska in my free time.
 
 Skills: Swift UI / React / Typescript / NodeJS / Python / Java
 
