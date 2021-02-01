@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Zach
 #### I am a Software Engineer and Aerospace Propulsion Technician
-![I am a Software Engineer and Aerospace Propulsion Technician]
 
 I am a Computer Science Grad from West Chester University and like to play my guitar and hike in Alaska in my free time.
 
