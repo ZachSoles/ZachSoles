@@ -13,5 +13,4 @@ Skills: Swift UI / React / Typescript / NodeJS / Python / Java
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZachSoles)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZachSoles&show_icons=true)  
 
