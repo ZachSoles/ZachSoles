@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is Zach
 #### I am a Software Engineer and Aerospace Propulsion Technician
 
-Skills: Swift UI / React / Typescript / NodeJS / Python / Java / C
+Languages: Python | C++ | Typescript | Javascript | Swift | Java | SQL
+Frameworks: Kubeflow | Flyte | gRPC | React.js | SwiftUI | Electron.js | Node.js
 
 - 📫 How to reach me: zacsoles@gmail.com 
 - Website: [www.zachsoles.github.io](https://zachsoles.github.io/#/)
