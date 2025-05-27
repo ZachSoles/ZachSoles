@@ -3,16 +3,16 @@
 
 ## Known Languages and Frameworks
 
-Languages: 
-    - Python 
-    - C++ 
-    - Typescript 
-    - Javascript 
-    - Swift 
-    - Java 
-    - SQL
+Languages:
+  - Python
+  - C++ 
+  - Typescript 
+  - Javascript 
+  - Swift 
+  - Java 
+  - SQL
 
-Frameworks: 
+Frameworks:
   - Kubeflow
   - Flyte
   - gRPC
