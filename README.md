@@ -3,7 +3,7 @@
 
 ## Known Languages and Frameworks
 Languages: 
-    -Python 
+    - Python 
     - C++ 
     - Typescript 
     - Javascript 
