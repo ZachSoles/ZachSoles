@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Zach
-#### I am a AI/ Machine Learning Engineer
 
 ## Known Languages and Frameworks
 
